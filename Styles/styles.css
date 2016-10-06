@@ -9,6 +9,14 @@
 	filter: FlipH;
 	-ms-filter: "FlipH";
 }
+.tilelist{
+	height: 300px;
+	overflow: hidden;
+}
+.tileimage{
+	width: 100%;
+	height: auto;
+}
 @media screen and (max-width:769){
 .LinkThumbImg{
 	width: 33%;
