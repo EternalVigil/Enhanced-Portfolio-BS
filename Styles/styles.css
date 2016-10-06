@@ -1,4 +1,13 @@
 @charset "UTF-8";
+#indexJumbo{
+	background-image: url("http://vignette3.wikia.nocookie.net/killerinstinct/images/3/35/10934095_896966996988335_1548994370896738697_o.jpg/revision/latest?cb=20150212145101");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	height: 600px;
+}
+#homeJumbo{
+	height:100%;
+}
 #profileImg{
 	width: 100%;
 	height: auto;
@@ -8,6 +17,10 @@
 	transform: scaleX(-1);
 	filter: FlipH;
 	-ms-filter: "FlipH";
+}
+#indexMiddleLink{
+	border-left: solid 2px white;
+	border-right: solid 2px white;
 }
 .tilelist{
 	height: 300px;
